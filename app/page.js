@@ -174,6 +174,7 @@ export default function Home() {
                   <h4>Address</h4>
                   <p>#1194, 1st Cross, Neeladri Investment Layout,<br/>Doddathoguru, E‑City Phase 1, Bengaluru – 560100</p>
                 </div>
+              </div>
 
               <div className="info-row">
                 <div className="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg></div>
