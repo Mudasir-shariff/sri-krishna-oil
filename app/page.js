@@ -16,10 +16,6 @@ export default function Home() {
             <h1>The secret of your family&apos;s <em>wellness</em></h1>
             <p className="lede">Groundnut, coconut, gingelly, sunflower and safflower oil — pressed slowly in a wooden chekku, the way it was always meant to be done. No heat, no solvents, no shortcuts.</p>
             <div className="hero-ctas">
-              <a className="btn gold" href="tel:+919886631514">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
-                98866 31514
-              </a>
               <a className="btn ghost" href="https://maps.google.com/maps?vet=10CAAQoqAOahgKEwjQjNHq4buWAxUAAAAAHQAAAAAQwAE..i&cs=1&hl=en-IN&rlz=1C1ONGR_enIN1112IN1112&sca_esv=2a198a1a37cb003b&udm=local&pvq=Cg0vZy8xMXFoMndtcmYzIg4KCE9pbCBtaWxsEAIYAw&lqi=ChVPaWwgbWlsbCBpbiBrYXJuYXRha2FIo7vnrby2gIAIWiEQABABGAAYARgDIhVvaWwgbWlsbCBpbiBrYXJuYXRha2GSAQVzdG9yZQ&fvr=1&um=1&ie=UTF-8&fb=1&gl=in&sa=X&ftid=0x3bae6bbcaf7d078f:0x8f3e64f09c198686" target="_blank" rel="noopener noreferrer">Get Directions</a>
             </div>
             <div className="hero-facts">
@@ -178,21 +174,7 @@ export default function Home() {
                   <h4>Address</h4>
                   <p>#1194, 1st Cross, Neeladri Investment Layout,<br/>Doddathoguru, E‑City Phase 1, Bengaluru – 560100</p>
                 </div>
-              </div>
-              <div className="info-row">
-                <div className="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg></div>
-                <div>
-                  <h4>Phone</h4>
-                  <p><a href="tel:+919886631514">98866 31514</a> &nbsp;/&nbsp; <a href="tel:+919353368830">93533 68830</a></p>
-                </div>
-              </div>
-              <div className="info-row">
-                <div className="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M4 4h16v16H4z" opacity="0"/><path d="M22 6l-10 7L2 6"/><rect x="2" y="4" width="20" height="16" rx="2"/></svg></div>
-                <div>
-                  <h4>Email</h4>
-                  <p><a href="mailto:srirakshaoil@gmail.com">srirakshaoil@gmail.com</a></p>
-                </div>
-              </div>
+
               <div className="info-row">
                 <div className="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg></div>
                 <div>
